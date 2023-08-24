@@ -1,2 +1,2 @@
 # precurse-Henry-
-este es mi primer repositorio de prueba del precurso henry
+este proyecto es una prueba de como crear y modificar un repositorio
